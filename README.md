@@ -12,7 +12,6 @@
     
  # app open link
   
-    <p align="center">
   <h4 align="center"><a href="https://shanawazmistry.github.io/SUDOKO_GAME/">https://shanawazmistry.github.io/SUDOKO_GAME/</a></h4> </p>
     
 # Preview
