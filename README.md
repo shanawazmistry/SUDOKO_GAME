@@ -11,8 +11,9 @@
     Images: https://unsplash.com/
     
  # app open link
- 
-    https://shanawazmistry.github.io/SUDOKO_GAME/
+  
+    <p align="center">
+  <h4 align="center"><a href="https://shanawazmistry.github.io/SUDOKO_GAME/">https://shanawazmistry.github.io/SUDOKO_GAME/</a></h4>
     
 # Preview
 
